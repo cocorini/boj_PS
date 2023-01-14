@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백준PS&fontSize=50" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsup97)](https://solved.ac/wsup97/)
