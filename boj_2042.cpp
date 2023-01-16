@@ -37,7 +37,7 @@ void solve(int a, int b, ll c) {
 		//cout << "v[b]는 " << v[b] << '\n';
     //여기서 v[b]를 빼지않고, b를 빼서 계속해서 틀림...
 		insert(1, 1, N, b, c - v[b]);
-    //처음에는 v 배열 갱신도 안해줌..
+    //처음에는 v 배열 갱신도 안해줌...
 		v[b] = c;
 		//cout << "v[b]는 " << v[b] << '\n';
 		//for (int i = 1; i < sizze; i++) cout << tree[i] << ' ';
